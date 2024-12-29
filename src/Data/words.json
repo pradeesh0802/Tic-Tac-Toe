@@ -1,0 +1,75 @@
+{
+    "words1": [
+      {"word": "react", "clue": "A popular JavaScript library for building user interfaces."},
+      {"word": "javascript", "clue": "A programming language commonly used for web development."},
+      {"word": "node", "clue": "A JavaScript runtime built on Chrome's V8 JavaScript engine."},
+      {"word": "express", "clue": "A web application framework for Node.js."},
+      {"word": "redux", "clue": "A predictable state container for JavaScript apps."},
+      {"word": "typescript", "clue": "A superset of JavaScript that adds type annotations."},
+      {"word": "webpack", "clue": "A module bundler for JavaScript applications."},
+      {"word": "babel", "clue": "A JavaScript compiler used to convert ES6+ code into compatible JavaScript."},
+      {"word": "html", "clue": "The standard markup language for creating web pages."},
+      {"word": "css", "clue": "A language used to style HTML elements."}
+    ],
+    "words2": [
+      {"word": "mongodb", "clue": "A NoSQL database that stores data in JSON-like format."},
+      {"word": "hangman", "clue": "A word-guessing game where you try to guess the word before running out of attempts."},
+      {"word": "algorithm", "clue": "A step-by-step procedure for solving a problem or performing a task."},
+      {"word": "database", "clue": "An organized collection of data, typically stored electronically."},
+      {"word": "server", "clue": "A computer or program that manages and serves resources or data to other computers."},
+      {"word": "deployment", "clue": "The process of making a software application available for use."},
+      {"word": "api", "clue": "A set of protocols for building and interacting with software applications."},
+      {"word": "authentication", "clue": "The process of verifying the identity of a user or system."},
+      {"word": "cloud", "clue": "A system of remote servers used to store, manage, and process data."},
+      {"word": "json", "clue": "A lightweight data interchange format that's easy for humans to read and write."}
+    ],
+    "words3": [
+      {"word": "frontend", "clue": "The part of a website or application that users interact with directly."},
+      {"word": "backend", "clue": "The server-side part of a website or application that processes data and manages servers."},
+      {"word": "development", "clue": "The process of creating software applications, websites, or systems."},
+      {"word": "design", "clue": "The visual and functional aspects of creating a user interface or product."},
+      {"word": "responsive", "clue": "Design that adapts to various screen sizes and devices."},
+      {"word": "html5", "clue": "The latest version of HTML, used for structuring web content."},
+      {"word": "css3", "clue": "The latest version of CSS, used for styling and laying out web pages."},
+      {"word": "reactjs", "clue": "A JavaScript library for building user interfaces, particularly for single-page apps."},
+      {"word": "angular", "clue": "A web framework for building front-end applications using TypeScript."},
+      {"word": "vuejs", "clue": "A progressive JavaScript framework for building user interfaces."}
+    ],
+    "words4": [
+      {"word": "python", "clue": "A versatile programming language known for its readability and use in data science."},
+      {"word": "java", "clue": "A high-level, class-based programming language used in web and enterprise applications."},
+      {"word": "ruby", "clue": "A dynamic, object-oriented programming language known for its simplicity."},
+      {"word": "swift", "clue": "A programming language created by Apple for building iOS and macOS applications."},
+      {"word": "golang", "clue": "A statically typed programming language developed by Google."},
+      {"word": "typescript", "clue": "A superset of JavaScript that introduces static types."},
+      {"word": "flutter", "clue": "A UI framework for building natively compiled applications for mobile, web, and desktop."},
+      {"word": "kotlin", "clue": "A modern programming language that runs on the JVM and is fully interoperable with Java."},
+      {"word": "dart", "clue": "A programming language optimized for building mobile, web, and desktop applications."},
+      {"word": "php", "clue": "A server-side scripting language used primarily for web development."}
+    ],
+    "words5": [
+      {"word": "artificial", "clue": "The simulation of human intelligence in machines."},
+      {"word": "intelligence", "clue": "The ability to acquire and apply knowledge and skills."},
+      {"word": "machine", "clue": "An apparatus using mechanical power to perform a task."},
+      {"word": "learning", "clue": "The process of acquiring knowledge through experience, study, or instruction."},
+      {"word": "data", "clue": "Factual information used for analysis or reasoning."},
+      {"word": "science", "clue": "The systematic study of the structure and behavior of the physical and natural world."},
+      {"word": "bigdata", "clue": "Large and complex data sets that require advanced methods to process and analyze."},
+      {"word": "neural", "clue": "Relating to neurons or a network of artificial neurons used in machine learning."},
+      {"word": "network", "clue": "A system of interconnected devices or nodes that communicate with each other."},
+      {"word": "deep", "clue": "A machine learning technique that uses neural networks with many layers."}
+    ],
+    "words6": [
+      {"word": "devops", "clue": "A set of practices combining software development and IT operations."},
+      {"word": "docker", "clue": "A platform used to develop, ship, and run applications inside containers."},
+      {"word": "kubernetes", "clue": "An open-source platform for automating the deployment and management of containerized applications."},
+      {"word": "automation", "clue": "The use of technology to perform tasks without human intervention."},
+      {"word": "ci", "clue": "Continuous Integration, a software development practice where code changes are automatically tested."},
+      {"word": "cd", "clue": "Continuous Delivery, the practice of keeping code in a deployable state at all times."},
+      {"word": "containers", "clue": "A lightweight, portable unit for packaging and running applications and their dependencies."},
+      {"word": "infrastructure", "clue": "The underlying foundation or framework needed for the operation of a system or organization."},
+      {"word": "monitoring", "clue": "The process of continuously observing the performance and health of a system."},
+      {"word": "scalability", "clue": "The ability of a system to handle growth in terms of load or capacity."}
+    ]
+  }
+  
